@@ -19,8 +19,9 @@ footer{
 }
 .background h2 a{
     text-decoration: none;
-    background: -webkit-linear-gradient(#eee, #333);
-    background-clip: text;
+    font-size: 41px;
+    background: -webkit-linear-gradient(#eee 10%, #3334 90%);
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .social-media-buttons {
